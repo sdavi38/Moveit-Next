@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://unform.dev">
-    <img src="banner.png" height="150" width="175" alt="Unform" />
+    <img src="https://storage.googleapis.com/golden-wind/unform/unform.svg" alt="Unform" />
   </a>
 </p>
+
+
 
