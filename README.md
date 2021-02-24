@@ -11,17 +11,17 @@
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
+ <a href="#objetivo">Objetivo</a>  •
+ <a href="#roadmap">Roadmap</a>  • 
+ <a href="#tecnologias">Tecnologias</a>  • 
+ <a href="#contribuicao">Contribuição</a>  • 
  <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#autor">Autor</a>  • 
   <a href="#status">Status do Projeto</a>
 </p>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧 Em construção...  🚧
 </h4>
 
 
