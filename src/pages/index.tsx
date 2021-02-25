@@ -5,6 +5,7 @@ import {Countdow} from '../components/Countdow'
 import styles from '../styles/pages/Home.module.css';
 import Head from 'next/head'
 import { ChallengeBox } from "../components/ChanllengeBox";
+import { CountdowProvider } from "../contexts/CountdowContext";
 
 export default function Home() {
   return (
@@ -13,6 +14,8 @@ export default function Home() {
         <title> Início | move.it</title>
       </Head>
      <ExperinceBar/>
+
+     <CountdowProvider>
      <section>
        <div>
         <Profile/>
@@ -23,6 +26,7 @@ export default function Home() {
        <ChallengeBox/>
        </div>
      </section>
+     </CountdowProvider>
     </div> 
   )
 }
