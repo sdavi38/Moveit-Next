@@ -55,3 +55,27 @@ transition: background-color 0.2s;
 .countdowButton:hover{
   background:var(--blue-dark)
 }
+.countdowButtonActive{
+  background: var(--white);
+  color: var(--title);
+}
+.countdowButtonActive:hover{
+  background:var(--red);
+  color: var(--white);
+
+}
+.countdowButtonActive:not(:disabled):hover{
+  background:var(--red);
+  color: var(--white);
+
+}
+.countdowButton:not(:disabled):hover{
+  background:var(--blue-dark);
+ 
+}
+.countdowButton:disabled{
+  cursor: not-allowed;
+  color: var(--title);
+  background: var(--white);
+
+}

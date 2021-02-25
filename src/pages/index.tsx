@@ -4,6 +4,7 @@ import { Profile } from "../components/Profile";
 import {Countdow} from '../components/Countdow'
 import styles from '../styles/pages/Home.module.css';
 import Head from 'next/head'
+import { ChallengeBox } from "../components/ChanllengeBox";
 
 export default function Home() {
   return (
@@ -17,11 +18,11 @@ export default function Home() {
         <Profile/>
         <CompletedChallenges/>
         <Countdow/>
-       </div>
+        </div>
        <div>
-
+       <ChallengeBox/>
        </div>
      </section>
-    </div>
+    </div> 
   )
 }
