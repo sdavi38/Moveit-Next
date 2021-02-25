@@ -38,6 +38,7 @@ export function CountdowProvider({children}:CountdowProviderProps){
     clearTimeout(countdownTimeout)
     setIsActive(false)
     setTime(0.1*60) //resetando o countdow
+    setHasFinished(false)
   }
 
   useEffect(() => {
