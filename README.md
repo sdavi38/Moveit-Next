@@ -24,6 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [NextJs](https://nextjs.org/docs/getting-started)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
+- [Vercel](https://vercel.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 <h4 align="center"> 
