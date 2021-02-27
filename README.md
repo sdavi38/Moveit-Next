@@ -8,13 +8,14 @@
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a>  •
- <a href="#tecnologias">Tecnologias</a>  • 
- <a href="#contribuicao">Contribuição</a>  • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>  • 
-  <a href="#status">Status do Projeto</a>
+  <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-iniciando-back-end">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-iniciando-front-end">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-iniciando-mobile">React Native</a>
 </p>
+
 
 
 ### 🛠 Tecnologias
